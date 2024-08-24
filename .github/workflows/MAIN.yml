@@ -22,7 +22,7 @@ jobs:
       - uses: actions/checkout@v4  # Updated to v4 which uses Node 20
 
       # Generates the snake GIF and SVG files
-      - uses: Platane/snk@v2.0.1  # Ensure using a stable version that supports Node 16+
+      - uses: Platane/snk@master  # Using the master branch of the action
         id: snake-gif
         with:
           github_user_name: tarunj292

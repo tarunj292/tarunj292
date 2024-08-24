@@ -69,5 +69,5 @@
 <h3 align="left">🐍 Contributions :</h3>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/tarunj292/tarunj292/output/snake.svg" alt="Snake animation" width="900" />
+<img src="" alt="Snake animation" width="900" />
 </div>

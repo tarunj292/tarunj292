@@ -66,8 +66,4 @@
 <img width="48%" align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=tarunj292&theme=radical&hide_border=true" />
 <br>
 <hr>
-<h3 align="left">🐍 Contributions :</h3>
-
-<div align="center">
-<img src="" alt="Snake animation" width="900" />
 </div>
